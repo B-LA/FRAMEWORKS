@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="PrimerAvance:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/PrimerAvance_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="PrimerAvance/web/Web" />
+      <element id="javaee-facet-resources" facet="PrimerAvance/web/Web2" />
+    </root>
+  </artifact>
+</component>
